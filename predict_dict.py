@@ -28,7 +28,7 @@ print()
 
 
 # LIST containing data about an alien
-alien1 = ['zork', 450, 'green', 'Zellian IV']
+alien1 = ['zork', 450, 'green', 'Zellian 7']
 
 # DICTIONARY containing data about an alien
 alien2 = {
