@@ -28,14 +28,14 @@ print()
 
 
 # LIST containing data about an alien
-alien1 = ['zork', 450, 'green', 'Zellian 7']
+alien1 = ['zork', 700, 'green', 'Zellian 7']
 
 # DICTIONARY containing data about an alien
 alien2 = {
 	'first_name' : 'zork',
 	'age' : 700,
 	'color' : 'green',
-	'home_planet' : 'Zellian IV'
+	'home_planet' : 'Zellian 7'
 }
 
 # Using pop ( ) to remove a LIST item
