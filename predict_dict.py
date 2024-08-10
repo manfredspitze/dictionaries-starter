@@ -4,6 +4,7 @@ cat = {
 	'name' : 'Sepp',
 	'age' : 3,
 	'color' : 'grey',
+	'eye_color' : 'yellow',
 	'friendly' : True
 }
 
