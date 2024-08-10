@@ -27,18 +27,18 @@ print()
 # print()
 
 
-# List containing data about an alien
+# LIST containing data about an alien
 alien1 = ['zork', 450, 'green', 'Zellian IV']
 
-# Dictionary containing data about an alien
+# DICTIONARY containing data about an alien
 alien2 = {
 	'first_name' : 'zork',
-	'age' : 450,
+	'age' : 700,
 	'color' : 'green',
 	'home_planet' : 'Zellian IV'
 }
 
-# Using pop ( ) to remove a list item
+# Using pop ( ) to remove a LIST item
 print(alien1)
 alien1.pop(0)
 print(alien1)
@@ -46,9 +46,9 @@ print(alien1)
 print()
 print()
 
-# Using pop ( ) to remove a dict item
+# Using pop ( ) to remove a DICTIONARY item
 print(alien2)
 alien2.pop('first_name')
 print(alien2)
 
-# Use the get ( ) method with your dict
+
