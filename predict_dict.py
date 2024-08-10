@@ -43,9 +43,6 @@ print(alien1)
 alien1.pop(0)
 print(alien1)
 
-print()
-print()
-
 # Using pop ( ) to remove a DICTIONARY item
 print(alien2)
 alien2.pop('first_name')
