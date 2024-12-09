@@ -7,11 +7,11 @@ To understand how accessing items in a Python list is different from accessing k
 ### List Instructions
 
 - Create a Python list named `my_pet`
-- Add the pet's name, color, and type (hamster, dog, cat, rabbit, etc.) as items to the list
-- Then print a sentence about the pet that uses all the info contained in the list
+- Add the pet's **name**, **color**, and **type** (hamster, dog, cat, rabbit, etc.) as items to the list
+- Then print a sentence about the pet that uses all the items contained in the list
 
 ### Dictionary Instructions
 
-- Create a dictionary named `your_pet` (for your friend's pet)
-- Add as key-value pairs the name, color and type of pet your friend has
-- Then use the dictionary keys to print the name, color and type of pet your friend has
+- Create a dictionary named `your_pet` (for a friend's pet)
+- Add as key-value pairs the **name**, **color**, and **type** of pet your friend owns
+- Then use the dictionary keys to print the name, color and type of pet your friend owns
