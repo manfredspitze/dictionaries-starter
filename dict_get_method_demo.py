@@ -19,6 +19,7 @@ person = {'first_name': 'Phil', 'age': 22, 'salary' : 56780}
 # No default value is specified here for the get ( ) method (so the default value of None will be returned and printed)
 # None means the key you requested was not found in the dictionary
 # print(f" {person.get('salary') } ")
+# Using a default salary of 25000 if a key named salary is not found in the dictionary
 print(f"Your salary: ${person.get('salary', 25000) } ")
 
 
