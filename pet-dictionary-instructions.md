@@ -14,4 +14,4 @@ To understand how accessing items in a Python list is different from accessing k
 
 - Create a dictionary named `your_pet` (for a friend's pet)
 - Add as key-value pairs the **name**, **color**, and **type** of pet your friend owns
-- Then use the dictionary keys to print the name, color and type of pet your friend owns
+- Then use the dictionary keys to print the **name**, **color**, and **type** of pet your friend owns
