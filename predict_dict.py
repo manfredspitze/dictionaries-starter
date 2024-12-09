@@ -1,4 +1,6 @@
 # A simple Python dictionary that contains data about my cat
+# The data is stored in what are known as key-value pairs
+# In the example below, color is a KEY and grey is the value of that key
 
 cat = {
 	'name' : 'Sepp',
@@ -10,18 +12,19 @@ cat = {
 
 
 
-# How would I print my cat's age?
+# Using a DICTIONARY, how would I print my cat's age?
 print('Just printing my cat\'s age...')
 print(cat['age'])
 
 print()
 
+print('Using a DICTIONARY')
 print('Adding my cat\'s age to an f-string...')
 print(f"Sepp's age: { cat['age'] }")
 print()
 
 
-
+# print('Using a DICTIONARY')
 # print('Printing my cat\'s eye color...')
 # print(cat['eye_color'])
 # print()
@@ -43,7 +46,8 @@ print(alien1)
 alien1.pop(0)
 print(alien1)
 
-# Using pop ( ) to remove a DICTIONARY item
+# Using pop ( ) to remove a DICTIONARY key-value pair
+# Removing a key from a dictionary also removes the key's value
 print(alien2)
 alien2.pop('first_name')
 print(alien2)
