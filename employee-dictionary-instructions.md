@@ -35,7 +35,7 @@
    - Use the `get()` method to retrieve specific values from the dictionary.
    - Provide the key as the first argument in the `get()` method.
    - If the key exists, return the corresponding value.
-   - **If the key doesn't exist** the `get()` method should return `None` by default.
+   - **If the key doesn't exist**, the `get()` method should return `None` by default.
 
    **Example:**
 
