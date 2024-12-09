@@ -2,7 +2,7 @@
 
 ### Objective
 
-To understand how to access and print items in a Python list and the data in a Python dictionary
+To understand how to access data contained in a Python list and in a Python dictionary.
 
 ### List Instructions
 
