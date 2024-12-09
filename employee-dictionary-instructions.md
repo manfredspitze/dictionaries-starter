@@ -53,7 +53,7 @@
    - To retrieve the employee's middle name, which is not one of the keys in the `employee` dictionary shown above:
 
    ```python
-   # Here we're using the string **N/A** (not applicable) as the default value for the `get( )` method
+   # Here we're using the string N/A (not applicable) as the default value for the get( ) method
    middle_name = employee.get('middle_name', 'N/A')
    print(middle_name)  # Output: N/A
    ```
