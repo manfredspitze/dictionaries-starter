@@ -6,7 +6,7 @@
 # Parameter 1: Name of the key to search for in the dict
 # Parameter 2 (optional): A value to be returned if the specified key is not found (Default value returned is None)
 
-person = {'first_name': 'Phil', 'age': 22, 'salary' : 56780, 'fname' : 'Mike'}
+person = {'first_name': 'Phil', 'age': 22, 'salary' : 56780}
 
 
 
