@@ -46,7 +46,6 @@
 
 3. **Using `get()` with a Default Value:**
    - You can provide a default value as the second argument in the `get()` method.
-   - If the key doesn't exist, the default value of `None` will be returned instead.
 
    **Example:**
 
