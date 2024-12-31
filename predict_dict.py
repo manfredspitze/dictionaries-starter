@@ -1,6 +1,6 @@
 # A simple Python dictionary that contains data about my cat
-# The data is stored in what are known as key-value pairs
-# In the example below, color is a KEY and grey is the value of that key
+# The data about the cat is stored in key-value pairs
+# In the example below, color is a KEY and grey is the value assigned to that key
 
 cat = {
 	'name' : 'Sepp',
