@@ -33,6 +33,11 @@ print()
 # LIST containing data about an alien
 alien1 = ['zork', 700, 'green', 'Zellian 7']
 
+# Using pop ( ) to remove a LIST item
+print(alien1)
+alien1.pop(0)
+print(alien1)
+
 # DICTIONARY containing data about an alien
 alien2 = {
 	'first_name' : 'zork',
@@ -41,15 +46,10 @@ alien2 = {
 	'home_planet' : 'Zellian 7'
 }
 
-# Using pop ( ) to remove a LIST item
-print(alien1)
-alien1.pop(0)
-print(alien1)
-
 # Using pop ( ) to remove a DICTIONARY key-value pair
-# Removing a key from a dictionary also removes the key's value
+# Removing a key from a dictionary also removes the key's value, since key-value pairs go together/are linked to one another
 print(alien2)
-alien2.pop('first_name')
+alien2.pop('first_name') # Removing the alien's name from the dictionary
 print(alien2)
 
 
