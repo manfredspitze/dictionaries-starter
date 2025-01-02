@@ -28,7 +28,7 @@ Learn how to create an empty dictionary and then add key-value pairs to it.
    ```python
    my_dict['name'] = 'Alyssa'
    my_dict['age'] = 25
-   my_dict['city'] = 'Miami'
+   my_dict['city'] = 'Bellaire'
    ```
 4. Print the dictionary to see the result:
    ```python
