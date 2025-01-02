@@ -41,7 +41,7 @@ print(my_dict['name'])  # Output: Alice
   ```
 
 - **Dictionary:**  
-  Add a new key-value pair or modify an existing value by assigning to a key.
+  Add a new key-value pair or modify an existing value by assigning a value (or an updated value) to a key.
   ```python
   my_dict['city'] = 'New York'  # Add new key-value pair
   my_dict['age'] = 26           # Modify existing value by key
