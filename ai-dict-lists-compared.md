@@ -67,6 +67,6 @@ print(my_dict['age'])   # Output: 16
 ### **Quick Summary:**
 - **Lists** are for storing **ordered collections** of data, accessed by position (index).
 - **Dictionaries** are for storing **key-value pairs**, accessed by key.
-- Remember: A dictionary **key** gives you access to a specific value, just as a real key on a keyring gives you access to a specific room in a house or to a specific vehicle in a parking lot.
+- Remember: A dictionary **key** gives you access to a specific value, just as a real key on a key chain gives you access to a specific room in a house or to a specific vehicle in a parking lot.
 
 Use **lists** when the order matters and **dictionaries** when you need to map **unique keys** to specific values!
