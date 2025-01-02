@@ -64,7 +64,7 @@ Learn how to update existing key-value pairs in a dictionary.
 ### Station 4: Practical Application
 
 ## Objective
-Apply what you've learned today about dictionaries by creating a simple contact book.
+Apply what you've learned today about dictionaries by creating a simple dictionary of contacts and their phone numbers.
 
 ## Instructions
 1. In VS Code, create a new Python file named `contacts.py`.
