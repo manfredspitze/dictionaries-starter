@@ -16,18 +16,17 @@
 
 - **List:**  
   Access by **index** (position in the list, starting from 0).
-  ```python
-
- my_list = [10, 20, 30]
-  print(my_list[1])  # Output: 20
-  ```
+```python
+my_list = [10, 20, 30]
+print(my_list[1])  # Output: 20
+```
 
 - **Dictionary:**  
   Access by **key** (the unique identifier associated with a value).
-  ```python
-  my_dict = {'name': 'Alice', 'age': 25}
-  print(my_dict['name'])  # Output: Alice
-  ```
+```python
+my_dict = {'name': 'Alice', 'age': 25}
+print(my_dict['name'])  # Output: Alice
+```
 
 ---
 
