@@ -83,7 +83,7 @@ Apply what you've learned today about dictionaries by creating a simple dictiona
    ```python
    contacts['Alyssa'] = '570-514-2257'
    ```
-5. Print the final contact book to see all its entries.
+5. Print the final version of the dictionary so you can see all its entries.
    
 6. Think of one other feature or upgrade you could add to your contact book.  What would it be?  Tell your teacher about this feature/upgrade.
 
