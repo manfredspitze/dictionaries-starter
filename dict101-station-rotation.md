@@ -2,8 +2,6 @@
 
 ### Station 1: Understanding the Differences Between Dictionaries and Lists
 
-# Station 1: Understanding the Differences Between Dictionaries and Lists
-
 ## Objective
 Learn how dictionaries and lists are set up and used differently.
 
@@ -16,8 +14,6 @@ Learn how dictionaries and lists are set up and used differently.
 ---
 
 ### Station 2: Creating and Adding Key-Value Pairs to a Dictionary
-
-# Station 2: Creating and Adding Key-Value Pairs to a Dictionary
 
 ## Objective
 Learn how to create an empty dictionary and then add key-value pairs to it.
@@ -40,13 +36,9 @@ Learn how to create an empty dictionary and then add key-value pairs to it.
    ```
 5. Share your code with a partner and discuss what you learned specifically about dictionary **keys**.
 
-
 ---
 
 ### Station 3: Updating Key-Value Pairs in a Dictionary
-
-
-# Station 3: Updating Key-Value Pairs in a Dictionary
 
 ## Objective
 Learn how to update existing key-value pairs in a dictionary.
@@ -70,9 +62,6 @@ Learn how to update existing key-value pairs in a dictionary.
 ---
 
 ### Station 4: Practical Application
-
-```markdown
-# Station 4: Practical Application 
 
 ## Objective
 Apply what you've learned today about dictionaries by creating a simple contact book.
