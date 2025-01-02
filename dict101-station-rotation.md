@@ -2,7 +2,6 @@
 
 ### Station 1: Understanding the Differences Between Dictionaries and Lists
 
-```markdown
 # Station 1: Understanding the Differences Between Dictionaries and Lists
 
 ## Objective
@@ -12,13 +11,12 @@ Learn how dictionaries and lists are set up and used differently.
 1. Read the handout about the basic differences between lists and dictionaries.
 2. Complete the matching exercise where you match definitions or use cases to either lists or dictionaries.
 3. Check your answers against the teacher's answer key.
-```
+
 
 ---
 
 ### Station 2: Creating and Adding Key-Value Pairs to a Dictionary
 
-```markdown
 # Station 2: Creating and Adding Key-Value Pairs to a Dictionary
 
 ## Objective
@@ -41,13 +39,13 @@ Learn how to create an empty dictionary and then add key-value pairs to it.
    print(my_dict)
    ```
 5. Share your code with a partner and discuss what you learned specifically about dictionary **keys**.
-```
+
 
 ---
 
 ### Station 3: Updating Key-Value Pairs in a Dictionary
 
-```markdown
+
 # Station 3: Updating Key-Value Pairs in a Dictionary
 
 ## Objective
@@ -68,7 +66,6 @@ Learn how to update existing key-value pairs in a dictionary.
    print(my_dict)
    ```
 5. Challenge yourself to add one more new key-value pair and then print the final version of the dictionary.
-```
 
 ---
 
@@ -98,5 +95,6 @@ Apply what you've learned today about dictionaries by creating a simple contact 
    contacts['Alyssa'] = '570-514-2257'
    ```
 5. Print the final contact book to see all its entries.
+   
 6. Think of one other feature or upgrade you could add to your contact book.  What would it be?  Tell your teacher about this feature/upgrade.
-```
+
