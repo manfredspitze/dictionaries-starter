@@ -6,14 +6,14 @@ In Python, both **lists** and **dictionaries** are used to store collections of 
 However, they are quite different in how they organize and access their data.
 
 ---
-https://github.com/manfredspitze/dictionaries-starter/blob/main/ai-dict-lists-compared.md
+
 ### **1. Python Lists:**
 - A **list** is an **ordered collection** of items.
 - Items in a list are indexed by their **position** (starting at index 0).
 - Lists are enclosed in **square brackets** `[]`.
 - You can store multiple types of data in a list.
 
-#### **Creating a List:**https://github.com/manfredspitze/dictionaries-starter/blob/main/ai-dict-lists-compared.md
+#### **Creating a List:**
 ```python
 # Example of a list
 my_list = ['apple', 'banana', 'cherry']
