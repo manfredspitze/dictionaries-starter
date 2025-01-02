@@ -23,6 +23,8 @@ print(my_list[1])  # Output: 20
 
 - **Dictionary:**  
   Access by **key** (the unique identifier associated with a value).
+
+  Keys that are strings should be enclosed in a pair of quotation marks.
 ```python
 my_dict = {'name': 'Alice', 'age': 25}
 print(my_dict['name'])  # Output: Alice
@@ -41,7 +43,7 @@ print(my_dict['name'])  # Output: Alice
   ```
 
 - **Dictionary:**  
-  Add a new key-value pair or modify an existing value by assigning a value (or an updated value) to a key.
+  Add a new key-value pair or modify an existing value by assigning an updated value to a key.
   ```python
   my_dict['city'] = 'New York'  # Add new key-value pair
   my_dict['age'] = 26           # Modify existing value by key
