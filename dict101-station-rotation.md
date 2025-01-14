@@ -6,11 +6,10 @@
 Learn how dictionaries and lists are set up and used differently.
 
 ## Instructions
-1. Complete the PREDICT handout about Python lists versus dictionaries.
-2. Complete the matching exercise where you match definitions or use cases to either lists or dictionaries.
-3. Check your answers against the teacher's answer key.
-
-
+- Complete Station #1, the PREDICT handout about Python lists versus dictionaries.
+- Complete Station #2 below.
+- Station #3: Update your dictionary as directed below.
+- Station #4: Complete this station using VS Code.
 ---
 
 ### Station 2: Creating and Adding Key-Value Pairs to a Dictionary
