@@ -6,7 +6,7 @@
 Learn how dictionaries and lists are set up and used differently.
 
 ## Instructions
-1. Read the handout about the basic differences between lists and dictionaries.
+1. Complete the PREDICT handout about Python lists versus dictionaries.
 2. Complete the matching exercise where you match definitions or use cases to either lists or dictionaries.
 3. Check your answers against the teacher's answer key.
 
