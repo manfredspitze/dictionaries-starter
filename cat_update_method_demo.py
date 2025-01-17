@@ -9,6 +9,20 @@ cat = {
 cat['age'] = 5
 print(f"Sepp is now { cat['age'] } years old.")
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Using the update ( ) method to update a dictionary item
 cat.update( {'age' : 4} )
 print('Updated dictionary')
