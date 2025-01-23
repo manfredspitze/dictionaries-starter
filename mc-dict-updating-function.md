@@ -19,4 +19,4 @@
 ---
 
 ## Sample Output
-![Student ID output](student-id-requested.png)
+![Updating a Python dictionary](updated-output.png)
