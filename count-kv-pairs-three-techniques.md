@@ -14,7 +14,7 @@ print(num_pairs)  # Output: 3
 
 - Use a `for` loop to count the number of keys in the dictionary
 
-# Using a for loop over keys
+# Using a for loop to loop over keys
 ```python
 my_dict = {'apple': 3, 'banana': 2, 'cherry': 5}
 count = 0
@@ -26,7 +26,7 @@ print(count)  # Output: 3
 - Use the `items()` method and a `for` loop to count the number of items in the dictionary
 - Remember: A dictionary **item** is another word for a **key-value** pair
 
-# Using a for loop over items()
+# Using a for loop to loop over items()
 ```python
 my_dict = {'apple': 3, 'banana': 2, 'cherry': 5}
 count = 0
